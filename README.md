@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Skills
-- Programming: **Python**, **SQL**, **MATLAB** (basic)
+- Programming: **Python**, **SQL**, **MATLAB** 
 - Libraries: **Pandas**, **NumPy**, **scikit-learn**, **TensorFlow**, **PyTorch**
 - Other: **Data Visualization**, **Scientific Computing**, **Machine Learning**
 
