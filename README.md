@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Joel Ginu Mathew 👋
 
-<!--
-**joel-ginu-mathew/joel-ginu-mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Physics Graduate | 📊 Data Science & AI Diploma Holder | 🧠 Aspiring AI/ML Researcher
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎯 Passionate about Scientific Computing, Machine Learning, and Applied Physics.
+- 🔭 Currently working on AI projects involving NLP, Computer Vision, and Scientific ML.
+- 🌱 Constantly learning about Deep Learning architectures and Data-Driven Research.
+- 🤝 Open to collaborations, internships, and research assistant opportunities.
+
+---
+
+## 🛠️ Skills
+- Programming: **Python**, **SQL**, **MATLAB** (basic)
+- Libraries: **Pandas**, **NumPy**, **scikit-learn**, **TensorFlow**, **PyTorch**
+- Other: **Data Visualization**, **Scientific Computing**, **Machine Learning**
+
+---
+## 📬 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/joel-ginu-mathew-68b155272/)
+- [Email](joelginumathew2001@gmail.com)
+
+  > "The important thing is to not stop questioning." — Albert Einstein
